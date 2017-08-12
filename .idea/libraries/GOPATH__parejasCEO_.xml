@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;parejasCEO&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tournaments" />
+      <root url="file://$PROJECT_DIR$/../petshopweb" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../oakbits" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../oakbitsOldie" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../tournaments" />
+      <root url="file://$PROJECT_DIR$/../petshopweb" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../oakbits" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../oakbitsOldie" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
